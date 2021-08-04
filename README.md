@@ -1,5 +1,7 @@
 # gregslist-vue
 
+finish building gregslist in Vue!
+
 ## Project setup
 ```
 npm install
